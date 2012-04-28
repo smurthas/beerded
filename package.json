@@ -1,0 +1,23 @@
+{
+  "author": "Simon Murtha-Smith <simon@murtha-smith.com>",
+  "name": "beerded",
+  "description": "Full. Bodied. Sharing.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/smurthas/beerded.git"
+  },
+  "main": "lib/app.js",
+  "dependencies": {
+    "connect": "",
+    "express": "",
+    "request": "",
+    "async"  : "",
+    "mongodb": ""
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
